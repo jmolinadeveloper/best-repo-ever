@@ -1,2 +1,6 @@
 # best-repo-ever
-Prueba de cambio de información en Read.md Y ahora de fallo
+<<<<<<< HEAD
+Y ahora de fallo
+
+Pasará al repo remoto?
+>>>>>>> origin/main
